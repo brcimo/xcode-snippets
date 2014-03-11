@@ -8,11 +8,13 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 @try {
-    <#statements#>
+	< #statements #>
 }
-@catch (NSException *exception) {
-    <#handler#>
+@catch (NSException *exception)
+{
+	< #handler #>
 }
-@finally {
-    <#statements#>
+@finally
+{
+	< #statements #>
 }

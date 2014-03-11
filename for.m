@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-for (<#initialization#>; <#condition#>; <#increment#>) {
-  <#statements#>
+for (< #initialization #>; < #condition #>; < #increment #>) {
+	< #statements #>
 }

@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-NS_ENUM(<#_type#>, <#_name#>) {
-    <#first#>
+NS_ENUM(< #_type #>, <#_name #> )
+{
+	< #first #>
 };

@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 2
 static dispatch_once_t onceToken;
 dispatch_once(&onceToken, ^{
-    <#code to be executed once#>
+    < #code to be executed once #>
 });

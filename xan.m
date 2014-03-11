@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-XCTAssertNil(<#expression#>, <#message#>);
+XCTAssertNil(< #expression #>, <#message #> );

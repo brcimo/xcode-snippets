@@ -7,6 +7,6 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-for (<#type *object#> in <#collection#>) {
-    <#statements#>
+for (< #type * object #> in <#collection #> ) {
+	< #statements #>
 }

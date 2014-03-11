@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-NS_OPTIONS(<#_type#>, <#_name#>) {
-    <#first#>
+NS_OPTIONS(< #_type #>, <#_name #> )
+{
+	< #first #>
 };

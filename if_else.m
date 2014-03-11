@@ -7,8 +7,9 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-if (<#condition#>) {
-  <#statements-if-true#>
-} else {
-  <#statements-if-false#>
+if (< #condition #>) {
+	< #statements - if - true #>
+}
+else {
+	< #statements - if - false #>
 }
